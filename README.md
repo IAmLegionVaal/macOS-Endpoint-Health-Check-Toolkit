@@ -85,6 +85,6 @@ sudo ./src/macos_endpoint_health.sh --install-updates --yes
 
 The script has been statically reviewed for shell syntax and control flow. Runtime testing must be performed on a suitable macOS system before production use.
 
-## Author
+## Maintainer
 
-Dewald Pretorius — L2 IT Support Engineer
+IAmLegionVaal
